@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta de Amor</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0e1f6;
+            color: #5a2d62;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            padding: 50px;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 50px auto;
+            font-size: 1.2em;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #e91e63;
+        }
+        .heart {
+            font-size: 3em;
+            color: #e91e63;
+        }
+        .message {
+            margin-top: 20px;
+            line-height: 1.8;
+        }
+        .signature {
+            margin-top: 30px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Mi Querida Cesia</h1>
+
+        <div class="message">
+            <p>Desde el primer momento en que nuestras miradas se cruzaron, supe que mi vida cambiaría para siempre.</p>
+            <p>Tu sonrisa ilumina mis días y tu cariño llena mi corazón de una felicidad indescriptible. Eres mi razón de ser, el latido de mi alma, el sueño hecho realidad.</p>
+            <p>Contigo todo tiene sentido, y cada instante a tu lado es un regalo del universo.</p>
+            <p class="heart">❤❤❤</p>
+            <p>Hoy quiero decirte que te amo, con todo lo que soy y todo lo que seré. Mi amor por ti es eterno, y quiero caminar juntos/as por siempre.</p>
+        </div>
+
+        <p class="signature">Con todo mi amor,</p>
+        <p class="signature">Victor</p>
+    </div>
+
+</body>
+</html>
